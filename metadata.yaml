@@ -1,0 +1,36 @@
+_repo: Chess-Strategy_5614
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Du Mont, J. (Jules)
+    aliases:
+    - Mont, Jules du
+    - Mont, J. du (Jules)
+    birthdate: 1881
+    gutenberg_agent_id: '1812'
+    url: http://www.gutenberg.org/2009/agents/1812
+creator:
+  author:
+    agent_name: Lasker, Edward
+    alias: Lasker, Eduard
+    birthdate: 1885
+    deathdate: 1981
+    gutenberg_agent_id: '1589'
+    url: http://www.gutenberg.org/2009/agents/1589
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Lasker
+description: One of a half-dozen great theoretical works in chess, shows principles
+  of action above and beyond moves. Acclaimed by Capablanca, Keres, and other greats.
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5614'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chess'
+- !lcc 'GV'
+- GITenberg
+title: Chess Strategy
+url: http://www.gutenberg.org/ebooks/5614
